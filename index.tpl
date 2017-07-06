@@ -1,4 +1,4 @@
-{{ define "title" }}Hackers - Hackerz online{{ end }}
+{{ define "title" }}Hackers - Hackerz online | Android Haking Game{{ end }}
 
 {{ define "content" }}
 <div class="container">
@@ -12,7 +12,7 @@
                 <div class="row">
                     <div class="col-md-8">
                         Massive multiplayer online hacking simulator for Android.<br>
-                        Join hundreds of thousands of players in this virtual world of hackers! Hack each other, create allies ,build a guild and infiltrate corporations and high political targets and more coming!<br>
+                        Join hundreds of thousands of players in this virtual world of hackers! Hack each other, create allies, build a guild and infiltrate corporations and high political targets... More coming!<br>
                         <a href="https://play.google.com/store/apps/details?id=net.okitoo.hackers">Download game now!</a><br>
                     </div>
                     <div class="col-md-4">
@@ -69,4 +69,3 @@
 {{ define "post_js" }}
 <script src="/public/js/chat.js"></script>
 {{ end }}
-
